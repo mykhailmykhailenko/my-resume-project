@@ -1,0 +1,73 @@
+body {
+    display: flex;
+    margin: 20px;
+    font-size: 18px;
+    line-height: 1.2em;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container {
+    height: auto;
+    width: 370px;
+    background-color: #1b2433;
+    
+    display: block;
+}
+.my-photo {
+    width: 370px;
+}
+.container-text {
+    padding-top: 30px;
+    padding-left: 30px;
+    color: #d8d2d2;
+    line-height: 1.5em;
+}
+.contacts {
+    margin-bottom: 50px;
+    
+}
+.tech-skills {
+    margin-bottom: 50px;
+}
+
+
+h3 {
+    color: rgb(255, 102, 0);
+    font-size: 25px;
+}
+
+.main-page {
+    color: black;
+    width: 700px;
+    padding-left: 70px;
+    padding-bottom: 30px;
+    text-align: left;
+    border: #1e2939 1px solid;
+    
+}
+
+h1 {
+    margin: 50px 0;
+    font-size: 50px;
+}
+h2 {
+    margin: 30px 0;
+    font-size: 27px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+h4 {
+    margin: 5px 0;
+    font-size: 20px;
+    color: rgb(255, 102, 0);
+}
+span {
+    color: rgb(43, 42, 42);
+    font-size: 15px;
+}
+h5 {
+    font-size: 18px;
+    color: black;
+    margin-bottom: 10px;
+}
